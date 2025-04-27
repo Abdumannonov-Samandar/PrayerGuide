@@ -1,11 +1,9 @@
 
 
-import { AccordionContent, AccordionItem, AccordionTrigger } from "./ui/accordion"
+import { AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion"
+import { RecitationItemProps } from '@/types'
 
-interface RecitationItemProps {
-	title: string
-	content: string
-}
+
 
 export default function RecitationItem({ title, content }: RecitationItemProps) {
 	return (
