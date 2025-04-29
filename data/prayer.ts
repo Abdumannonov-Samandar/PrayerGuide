@@ -138,12 +138,12 @@ export const recitations = [
 	{
 		title: 'Fotiha surasi',
 		content: `Bismillahir rohmanir rohim.
-Alhamdu lillahi robbil 'alamin.
-Ar rohmanir rohim.
-Maliki yawmid din.
-Iyyaka na'budu va iyyaka nasta'in.
-Ihdinas siratal mustaqim.
-Siratal-lazina an'amta alayhim, g'oyril mag'zubi alayhim valazzollin. Omin.`,
+1. Alhamdulillahi robbil 'aalamiyn 
+2. Ar-rohmaanir rohiym 
+3. Maaliki yavmiddiyn 
+4. Iyyaaka na'budu va iyyaaka nasta'iyn. 
+5. Ihdinas-sirootol mustaqiym 
+6-7. Sirootol-laziyna an'amta 'alayhim g‘oyril mag‘zuubi 'alayhim valazzolliyn. Omin.`,
 	},
 	{
 		title: 'Ixlos surasi',
