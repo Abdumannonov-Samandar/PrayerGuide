@@ -1,4 +1,3 @@
-
 export const prayers = [
 	{
 		title: '1. BOMDOD NAMOZI',
@@ -163,7 +162,14 @@ Inna shani'aka huval-abtar.`,
 		content: `Attahiyyatu lillahi vassalavatu vattoyyibat.
 Assalamu 'alayka ayyuhan-nabiyyu va rohmatullahi va barokatuh.
 Assalamu 'alayna va 'ala ibadillahissolihin.
-Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan abduhu va rosuluh.`,
+Ashhadu alla ilaha illallohu va ashhadu anna Muhammadan abduhu va rosuluh.
+
+
+At-tahiyyātu lillāhi was-salawātu wat-tayyibāt,
+As-salāmu ‘alayka ayyuhan-nabiyyu wa raḥmatullāhi wa barakātuh,
+As-salāmu ‘alaynā wa ‘alā ‘ibādillāhiṣ-ṣāliḥīn,
+Ashhadu allā ilāha illallāh,
+Wa ashhadu anna Muḥammadan ‘abduhū wa rasūluh.`,
 	},
 	{
 		title: 'Salovat',
@@ -172,7 +178,17 @@ Kama sollayta 'ala Ibrohima va 'ala ali Ibrohim.
 Innaka hamidum majid.
 Allohumma barik 'ala Muhammadin va 'ala ali Muhammadin.
 Kama barokta 'ala Ibrohima va 'ala ali Ibrohim.
-Innaka hamidum majid.`,
+Innaka hamidum majid. 
+
+
+Allāhumma ṣalli ‘alā Muḥammadin wa ‘alā āli Muḥammad,
+Kamā ṣallayta ‘alā Ibrāhīma wa ‘alā āli Ibrāhīm,
+Innaka ḥamīdum-majīd.
+
+Allāhumma bārik ‘alā Muḥammadin wa ‘alā āli Muḥammad,
+Kamā bārakta ‘alā Ibrāhīma wa ‘alā āli Ibrāhīm,
+Innaka ḥamīdum-majīd.
+`,
 	},
 	{
 		title: 'Duo',
