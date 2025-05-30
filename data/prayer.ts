@@ -126,6 +126,23 @@ export const prayers = [
 			},
 		],
 	},
+	{
+		title: '6. VITR NAMOZI',
+		description: '3 rakat vojib',
+		farzRakats: [
+			{
+				title: 'Vojib (3 rakat)',
+				niyat:
+					"Alloh rizoligi uchun vitr namozining uch rakat vojibini o'qishni niyat qildim.",
+				steps: [
+					"1-rakat: Subhanaka, Fotiha, kichik sura (Ixlos), ruku', sajda.",
+					"2-rakat: Fotiha, kichik sura (Kavsar), ruku', sajda, Tashahhud.",
+					"3-rakat: Fotiha, kichik sura, ruku'dan oldin qo‘l ko‘tarib Qunut duosi o‘qiladi, so‘ngra ruku', sajda.",
+					'Tashahhud, Salovat, Duo, Salom.',
+				],
+			},
+		],
+	},
 ]
 
 export const recitations = [
@@ -198,6 +215,12 @@ Innaka ḥamīdum-majīd.
 	{
 		title: 'Salom',
 		content: "Assalamu 'alaykum va rohmatulloh.",
+	},
+	{
+		title: 'Qunut duosi',
+		content: `Allohumma inna nasta’iynuka va nastaghfiruka va nu’minu bika va natavakkalu ‘alayka va nusniy ‘alaykal-khayr, kullahu nashkuruka va la nakfuruk, va nakhla’u va natruku may-yafjuruk.
+	
+	Allohumma iyyaka na’budu va laka nusolli va nasjudu va ilayka nas’a va nahfidu, narju rohmataka, va nakhsha ‘azabaka, inna ‘azabaka bil-kuffari mulhiq.`,
 	},
 ]
 
